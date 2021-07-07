@@ -1,6 +1,6 @@
 #pragma once
 
-#include "monero_headers.h"
+#include "wildstacks_headers.h"
 #include "tools.h"
 
 #include <boost/optional.hpp>
